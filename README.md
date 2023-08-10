@@ -29,8 +29,7 @@
 
 https://github.com/SilasN33/SilasN33/blob/output/github-contribution-grid-snake.svg
 
-
-1 [Snake animation](https://github.com/SilasN33/SilasN33/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SilasN33/SilasN33/blob/output/github-contribution-grid-snake.svg)
 
 
 
