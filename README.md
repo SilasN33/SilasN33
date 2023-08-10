@@ -27,7 +27,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilasN33&layout=compact)
 
-![Snake animation](https://github.com/SilasN33/SilasN33/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
