@@ -69,3 +69,48 @@
 ---
 
 ## 🧠 Mantras de Arquitetura
+
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SilasN33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=7c3aed&title_color=a78bfa" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilasN33&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa" />
+
+</div>
+
+---
+
+## 🏆 Projetos em Destaque
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [🎾 QG Open 2026](https://github.com/SilasN33/QG_APP) | Plataforma completa de torneio de tênis | Next.js · Supabase · Tailwind |
+
+---
+
+## 📫 Conecte
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/silas-neto/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:silasbortneto@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:0d0d0d&height=120&section=footer" width="100%" />
+
+</div>
