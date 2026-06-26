@@ -1,112 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:2d1b69&height=200&section=header&text=Silas%20Neto&fontSize=60&fontColor=a78bfa&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Architect%20%7C%20Full%20Stack%20Developer&descAlignY=60&descColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:050816,45:111827,100:14b8a6&text=Silas%20Neto&fontSize=54&fontColor=f8fafc&animation=fadeIn&fontAlignY=36&desc=AI%20Systems%20Architect%20%7C%20Full%20Stack%20Developer&descAlignY=58&descColor=99f6e4" width="100%" alt="Silas Neto" />
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-silas.dev-14b8a6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/SilasN33)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Silas%20Neto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silas-neto/)
+[![Email](https://img.shields.io/badge/Email-contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silasbortneto@gmail.com)
 
-[![Role](https://img.shields.io/static/v1?label=Role&message=AI%20Systems%20Architect&color=7c3aed&style=for-the-badge)](https://github.com/SilasN33)
-[![Focus](https://img.shields.io/static/v1?label=Focus&message=Autonomous%20Agents%20%2B%20Mission%20Control&color=4c1d95&style=for-the-badge)](https://github.com/SilasN33)
-[![Status](https://img.shields.io/badge/Status-Building-22c55e?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/SilasN33)
+<br />
 
-<br/>
-
-> *"IA deveria parecer um copiloto, não um painel confuso."*
+<b>Construindo produtos com IA, dashboards operacionais e automacoes que tiram trabalho repetitivo do caminho.</b>
 
 </div>
 
 ---
 
-## ⚡ Stack Atual
+## Sobre
+
+Sou desenvolvedor full stack com foco em sistemas de IA, produtos SaaS e operacoes digitais. Gosto de transformar ideias complexas em ferramentas rapidas, bonitas e usaveis: agentes, CRMs, dashboards, automacoes, apps de torneio e plataformas internas.
+
+```txt
+now         Next.js + Supabase + agentes de IA
+building    Mission Control, QG Open 2026, Orca AI, TripFlow
+style       pragmatismo, UX limpa, arquitetura simples de manter
+```
+
+---
+
+## Arcade de commits
 
 <div align="center">
 
-**Orquestração & Backend**
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Inteligência Artificial**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-**Frontend & UI**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Phaser](https://img.shields.io/badge/Phaser-8B0000?style=for-the-badge&logo=javascript&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SilasN33/SilasN33/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SilasN33/SilasN33/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man comendo o mapa de contribuicoes do GitHub" src="https://raw.githubusercontent.com/SilasN33/SilasN33/output/pacman-contribution-graph.svg" width="100%">
+</picture>
 
 </div>
 
 ---
 
-## 🎯 Agora
-
-<table>
-  <tr>
-    <td>🧠 <b>Mission Control</b></td>
-    <td>Dashboard estilo Kanban com agentes autônomos e UX rápida</td>
-  </tr>
-  <tr>
-    <td>🤖 <b>Multi-Agent Squads</b></td>
-    <td>Squads com perfis configuráveis e rastreamento de custo em tempo real</td>
-  </tr>
-  <tr>
-    <td>🎾 <b>QG Open 2026</b></td>
-    <td>Plataforma completa de torneio de tênis (Next.js + Supabase)</td>
-  </tr>
-  <tr>
-    <td>📦 <b>Skills no GitHub</b></td>
-    <td>Workspaces limpos com scripts automáticos de setup e deploy</td>
-  </tr>
-</table>
-
----
-
-## 🧠 Mantras de Arquitetura
-
-
-
----
-
-## 📊 GitHub Stats
+## Stack
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SilasN33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=7c3aed&title_color=a78bfa" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilasN33&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa" />
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e293b?style=for-the-badge&logo=typescript&logoColor=60a5fa)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-164e63?style=for-the-badge&logo=tailwind-css&logoColor=67e8f9)
+![Supabase](https://img.shields.io/badge/Supabase-052e2b?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-172554?style=for-the-badge&logo=postgresql&logoColor=93c5fd)
+![Prisma](https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1e3a8a?style=for-the-badge&logo=docker&logoColor=93c5fd)
+![OpenAI](https://img.shields.io/badge/OpenAI-134e4a?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-27272a?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 Projetos em Destaque
+## Projetos em destaque
 
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [🎾 QG Open 2026](https://github.com/SilasN33/QG_APP) | Plataforma completa de torneio de tênis | Next.js · Supabase · Tailwind |
+| Projeto | O que resolve | Stack |
+| --- | --- | --- |
+| [QG Open 2026](https://github.com/SilasN33/QG_APP) | Plataforma completa para torneio de tenis com organizacao, partidas e experiencia para jogadores | Next.js, Supabase, Tailwind |
+| [App Moto Entrega](https://github.com/SilasN33/app-moto-entrega) | Gestao de entregas e pagamento de motoboys | Next.js, Supabase |
+| [Mission Control V2](https://github.com/SilasN33/mission-control-v2) | Painel de controle para organizar missoes, tarefas e fluxo operacional | TypeScript |
+| [Market Radar](https://github.com/SilasN33/market-radar) | Radar para leitura de mercado e analise de sinais | Python |
+
+### Produtos privados em construcao
+
+| Produto | Foco | Stack |
+| --- | --- | --- |
+| TripFlow | Planejamento de viagens com IA e roteiros otimizados | Next.js, IA, Supabase |
+| Orca AI | Compras, orcamentos e automacao comercial | Next.js, Supabase, WhatsApp |
+| CRM HTC | CRM e dashboard BI para operacao de servicos | Next.js, Supabase, HubSpot |
 
 ---
 
-## 📫 Conecte
+## GitHub Stats
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/silas-neto/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SilasN33&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&title_color=5eead4&icon_color=2dd4bf&text_color=e5e7eb&bg_color=0d1117" alt="GitHub stats de SilasN33" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilasN33&layout=compact&theme=github_dark&hide_border=true&title_color=5eead4&text_color=e5e7eb&bg_color=0d1117" alt="Linguagens mais usadas por SilasN33" />
+
+</div>
+
+---
+
+## Princípios
+
+| Produto | Engenharia | IA |
+| --- | --- | --- |
+| Interface precisa parecer ferramenta de trabalho, nao vitrine confusa | Menos camadas, mais clareza, deploy sem drama | Agente bom ajuda no fluxo, nao sequestra a decisao |
+
+---
+
+<div align="center">
+
+<b>Aberto para colaborar em produtos com IA, SaaS e automacoes operacionais.</b>
+
+<br /><br />
+
+<a href="https://www.linkedin.com/in/silas-neto/">
+  <img src="https://img.shields.io/badge/Vamos%20conversar-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-&nbsp;
-<a href="mailto:silasbortneto@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
 
 </div>
-
----
-
-
