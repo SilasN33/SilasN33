@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Silas Neto - AI Systems Architect and Full Stack Developer" />
+<img src="" width="100%" alt="Silas Neto - AI Systems Architect and Full Stack Developer" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-online-14b8a6?style=for-the-badge&logo=vercel&logoColor=white)](https://silas-portfolio-cyan.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Silas%20Neto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silas-neto/)
