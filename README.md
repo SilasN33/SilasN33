@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:050816,45:111827,100:14b8a6&text=Silas%20Neto&fontSize=54&fontColor=f8fafc&animation=fadeIn&fontAlignY=36&desc=AI%20Systems%20Architect%20%7C%20Full%20Stack%20Developer&descAlignY=58&descColor=99f6e4" width="100%" alt="Silas Neto" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Silas Neto - AI Systems Architect and Full Stack Developer" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-silas.dev-14b8a6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/SilasN33)
+[![Portfolio](https://img.shields.io/badge/Portfolio-online-14b8a6?style=for-the-badge&logo=vercel&logoColor=white)](https://silas-portfolio-cyan.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Silas%20Neto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silas-neto/)
 [![Email](https://img.shields.io/badge/Email-contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silasbortneto@gmail.com)
 
@@ -23,6 +23,27 @@ now         Next.js + Supabase + agentes de IA
 building    Mission Control, QG Open 2026, Orca AI, TripFlow
 style       pragmatismo, UX limpa, arquitetura simples de manter
 ```
+
+---
+
+## O que eu construo
+
+| Area | Resultado |
+| --- | --- |
+| AI agents | Copilotos, squads e fluxos com tomada de decisao assistida |
+| SaaS dashboards | Paineis operacionais para acompanhar funil, custos, entregas e performance |
+| Internal tools | Ferramentas sob medida para reduzir planilhas soltas e retrabalho |
+| Automation workflows | Integracoes entre APIs, CRMs, WhatsApp, bancos de dados e rotinas de negocio |
+
+---
+
+## Currently shipping
+
+| Frente | Status |
+| --- | --- |
+| QG Open 2026 | Evoluindo a experiencia de torneios, partidas e gestao para jogadores |
+| Orca AI | Automatizando compras, orcamentos e rotinas comerciais com IA |
+| TripFlow | Desenhando roteiros de viagem ancorados em hospedagem, tempo e contexto |
 
 ---
 

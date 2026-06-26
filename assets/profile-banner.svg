@@ -1,0 +1,50 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Silas Neto profile banner</title>
+  <desc id="desc">AI systems architect and full stack developer banner with mission control and arcade visual elements.</desc>
+  <rect width="1280" height="360" rx="26" fill="#050816"/>
+  <path d="M0 0H1280V360H0V0Z" fill="url(#bg)"/>
+  <path d="M0 272C118 238 184 280 296 250C446 210 462 105 632 124C784 141 828 236 986 204C1102 181 1166 112 1280 132V360H0V272Z" fill="#0f766e" opacity=".16"/>
+  <path d="M104 76H1176" stroke="#2dd4bf" stroke-opacity=".18"/>
+  <path d="M104 284H1176" stroke="#2dd4bf" stroke-opacity=".18"/>
+  <g opacity=".24">
+    <path d="M878 80H1138C1157 80 1172 95 1172 114V246C1172 265 1157 280 1138 280H878C859 280 844 265 844 246V114C844 95 859 80 878 80Z" fill="#0d1117" stroke="#5eead4"/>
+    <path d="M880 126H1136" stroke="#334155"/>
+    <path d="M880 178H1136" stroke="#334155"/>
+    <path d="M880 230H1136" stroke="#334155"/>
+    <path d="M922 104V256" stroke="#334155"/>
+    <path d="M974 104V256" stroke="#334155"/>
+    <path d="M1026 104V256" stroke="#334155"/>
+    <path d="M1078 104V256" stroke="#334155"/>
+    <circle cx="922" cy="126" r="8" fill="#2dd4bf"/>
+    <circle cx="974" cy="178" r="8" fill="#60a5fa"/>
+    <circle cx="1026" cy="230" r="8" fill="#facc15"/>
+    <circle cx="1078" cy="126" r="8" fill="#2dd4bf"/>
+  </g>
+  <g transform="translate(176 164)">
+    <path d="M0 0C0-30 24-54 54-54C72-54 88-45 98-32L58 0L98 32C88 45 72 54 54 54C24 54 0 30 0 0Z" fill="#facc15"/>
+    <circle cx="56" cy="-22" r="6" fill="#050816"/>
+    <circle cx="136" cy="0" r="8" fill="#2dd4bf"/>
+    <circle cx="176" cy="0" r="8" fill="#2dd4bf"/>
+    <circle cx="216" cy="0" r="8" fill="#2dd4bf"/>
+  </g>
+  <text x="104" y="116" fill="#99f6e4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4">AI SYSTEMS ARCHITECT</text>
+  <text x="104" y="178" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="64" font-weight="800">Silas Neto</text>
+  <text x="106" y="222" fill="#cbd5e1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Full stack products, AI agents and operational dashboards.</text>
+  <g transform="translate(106 250)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">
+    <rect width="132" height="34" rx="17" fill="#134e4a"/>
+    <text x="20" y="22" fill="#ccfbf1">Next.js</text>
+    <rect x="148" width="140" height="34" rx="17" fill="#1e3a8a"/>
+    <text x="168" y="22" fill="#dbeafe">Supabase</text>
+    <rect x="304" width="132" height="34" rx="17" fill="#312e81"/>
+    <text x="324" y="22" fill="#e0e7ff">AI Agents</text>
+    <rect x="452" width="154" height="34" rx="17" fill="#164e63"/>
+    <text x="472" y="22" fill="#cffafe">Automation</text>
+  </g>
+  <defs>
+    <linearGradient id="bg" x1="94" y1="24" x2="1186" y2="342" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f172a"/>
+      <stop offset=".48" stop-color="#111827"/>
+      <stop offset="1" stop-color="#042f2e"/>
+    </linearGradient>
+  </defs>
+</svg>
